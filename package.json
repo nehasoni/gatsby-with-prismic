@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "gatsby-with-prismic",
+  "description": "Gatsby with Prismic",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Neha Soni <neha.soni1908@gmail.com>",
   "dependencies": {
     "gatsby": "^2.0.19",
     "gatsby-plugin-manifest": "^2.0.5",
@@ -27,6 +27,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/nehasoni/gatsby-with-prismic"
   }
 }
