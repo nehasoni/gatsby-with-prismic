@@ -1,4 +1,4 @@
 <h1 align="center">
-  Gatsby with Prismic
+  Gatsby with Prismic(static)
 </h1>
 
