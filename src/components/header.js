@@ -4,14 +4,14 @@ import { Link } from 'gatsby'
 const Header = ({ siteTitle }) => (
   <div
     style={{
-      background: 'rebeccapurple',
+      background: 'black',
       marginBottom: '1.45rem',
     }}
   >
     <div
       style={{
         margin: '0 auto',
-        maxWidth: 960,
+        maxWidth: '80%',
         padding: '1.45rem 1.0875rem',
       }}
     >
@@ -23,7 +23,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: 'none',
           }}
         >
-          {siteTitle}
+          <img src="/icons/icon-48x48.png" />
         </Link>
       </h1>
     </div>
